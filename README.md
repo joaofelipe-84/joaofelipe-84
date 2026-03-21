@@ -1,7 +1,7 @@
  <h1 aling="center"> Hello World, eu sou o João Felipe!! 👨‍💻</h1>  
 
 <p align="center">
-💀 Cybersecurity Student | 🔵 Blue Team | 🛡️ AppSec | 🧠 Always Learning
+💀 Estudante de CyberSegurança | 🔵 Blue Team | 🛡️ AppSec
 </p>
 
 ---
@@ -14,11 +14,3 @@
 🤝 Boa comunicação e trabalho em equipe  
 📂 Organizado em projetos pessoais e profissionais  
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-```bash
-💻 Linguagens: Python 
-🔐 Segurança:  Nmap 
-☁️ Outros: Git|Linux
