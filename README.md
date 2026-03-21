@@ -19,6 +19,6 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ```bash
-💻 Linguagens: Python | JavaScript | Bash
-🔐 Segurança: Wireshark | Nmap | Burp Suite | Metasploit
-☁️ Outros: Git | Linux | Docker
+💻 Linguagens: Python 
+🔐 Segurança:  Nmap 
+☁️ Outros: Git|Linux
