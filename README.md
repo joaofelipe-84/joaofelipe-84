@@ -1,16 +1,24 @@
-Hello World, eu sou o João Felipe!! 🕵️‍♂️
+ <h1 aling="center"> Hello World, eu sou o João Felipe!! 👨‍💻</h1>  
 
-<!--
-**joaofelipe-84/joaofelipe-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💀 Cybersecurity Student | 🔵 Blue Team | 🛡️ AppSec | 🧠 Always Learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧾 Sobre mim
+
+🎓 Estudante de Segurança da Informação  
+🔍 Focado em Blue Team e Application Security  
+🚀 Buscando evoluir através de prática + teoria  
+🤝 Boa comunicação e trabalho em equipe  
+📂 Organizado em projetos pessoais e profissionais  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+```bash
+💻 Linguagens: Python | JavaScript | Bash
+🔐 Segurança: Wireshark | Nmap | Burp Suite | Metasploit
+☁️ Outros: Git | Linux | Docker
